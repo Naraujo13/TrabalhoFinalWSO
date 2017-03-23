@@ -1,0 +1,243 @@
+<http://genericStore/Purchase3173>	<http://purl.org/goodrelations/price>	"573" .
+<http://genericStore/Purchase3174>	<http://purl.org/goodrelations/price>	"460" .
+<http://genericStore/Purchase3175>	<http://purl.org/goodrelations/price>	"616" .
+<http://genericStore/Purchase3176>	<http://purl.org/goodrelations/price>	"950" .
+<http://genericStore/Purchase3177>	<http://purl.org/goodrelations/price>	"900" .
+<http://genericStore/Purchase3178>	<http://purl.org/goodrelations/price>	"872" .
+<http://genericStore/Purchase3179>	<http://purl.org/goodrelations/price>	"2" .
+
+<http://genericStore/Offer883>	<http://purl.org/goodrelations/name>	"Chromecast" .
+<http://genericStore/Offer883>	<http://purl.org/goodrelations/category>	"Dong" .
+<http://genericStore/Offer883>	<http://purl.org/goodrelations/validThrough>	"2016-09-27" .
+<http://genericStore/Offer883>	<http://purl.org/goodrelations/validFrom>	"2017-03-21" .
+<http://genericStore/Offer883>	<http://purl.org/goodrelations/price>	"0410" .
+<http://genericStore/Offer883>	<http://purl.org/goodrelations/serialNumber>	"43644034" .
+<http://genericStore/Offer883>	<http://purl.org/goodrelations/description>	"Aparelho usb hdmi 1080p" .
+
+<http://genericStore/Offer1805>	<http://purl.org/goodrelations/name>	"Moto G" .
+<http://genericStore/Offer1805>	<http://purl.org/goodrelations/category>	"Cellphone" .
+<http://genericStore/Offer1805>	<http://purl.org/goodrelations/validThrough>	"2017-02-01" .
+<http://genericStore/Offer1805>	<http://purl.org/goodrelations/validFrom>	"2017-02-23" .
+<http://genericStore/Offer1805>	<http://purl.org/goodrelations/price>	"0885" .
+<http://genericStore/Offer1805>	<http://purl.org/goodrelations/serialNumber>	"77610781" .
+
+<http://genericStore/Offer1806>	<http://purl.org/goodrelations/name>	"Moto Z" .
+<http://genericStore/Offer1806>	<http://purl.org/goodrelations/category>	"Cellphone" .
+<http://genericStore/Offer1806>	<http://purl.org/goodrelations/validThrough>	"2017-02-25" .
+<http://genericStore/Offer1806>	<http://purl.org/goodrelations/validFrom>	"2017-02-01" .
+<http://genericStore/Offer1806>	<http://purl.org/goodrelations/price>	"1800" .
+<http://genericStore/Offer1806>	<http://purl.org/goodrelations/serialNumber>	"77615781" .
+<http://genericStore/Offer1806>	<http://purl.org/goodrelations/description>	"Celular para quem quer acessar tudo" .
+
+<http://genericStore/Offer1807>	<http://purl.org/goodrelations/name>	"Moto X Play" .
+<http://genericStore/Offer1807>	<http://purl.org/goodrelations/category>	"Cellphone" .
+<http://genericStore/Offer1807>	<http://purl.org/goodrelations/validThrough>	"2017-03-25" .
+<http://genericStore/Offer1807>	<http://purl.org/goodrelations/validFrom>	"2017-01-05" .
+<http://genericStore/Offer1807>	<http://purl.org/goodrelations/price>	"1100" .
+<http://genericStore/Offer1807>	<http://purl.org/goodrelations/serialNumber>	"79615781" .
+<http://genericStore/Offer1807>	<http://purl.org/goodrelations/description>	"Celular para quem ama liberdade" .
+
+<http://genericStore/Offer1809>	<http://purl.org/goodrelations/name>	"Notebook Acer 3K22" .
+<http://genericStore/Offer1809>	<http://purl.org/goodrelations/category>	"Notebook" .
+<http://genericStore/Offer1809>	<http://purl.org/goodrelations/validThrough>	"2017-05-13" .
+<http://genericStore/Offer1809>	<http://purl.org/goodrelations/validFrom>	"2017-03-27" .
+<http://genericStore/Offer1809> <http://purl.org/goodrelations/price>	"0879" .
+<http://genericStore/Offer1809>	<http://purl.org/goodrelations/serialNumber>	"19804834" .
+<http://genericStore/Offer1809>	<http://purl.org/goodrelations/description>	"Notebook com ótimo desempenho e design" .
+
+<http://genericStore/Offer1819>	<http://purl.org/goodrelations/name>	"Notebook Samsung AtivBook" .
+<http://genericStore/Offer1819>	<http://purl.org/goodrelations/category>	"Notebook" .
+<http://genericStore/Offer1819>	<http://purl.org/goodrelations/validThrough>	"2017-08-15" .
+<http://genericStore/Offer1819>	<http://purl.org/goodrelations/validFrom>	"2016-11-31" .
+<http://genericStore/Offer1819> <http://purl.org/goodrelations/price>	"0779" .
+<http://genericStore/Offer1819>	<http://purl.org/goodrelations/serialNumber>	"19804835" .
+<http://genericStore/Offer1819>	<http://purl.org/goodrelations/description>	"Notebook de alto desempenho" .
+
+<http://genericStore/Offer1829>	<http://purl.org/goodrelations/name>	"Notebook Dell Inspiron" .
+<http://genericStore/Offer1829>	<http://purl.org/goodrelations/category>	"Notebook" .
+<http://genericStore/Offer1829>	<http://purl.org/goodrelations/validThrough>	"2017-09-03" .
+<http://genericStore/Offer1829>	<http://purl.org/goodrelations/validFrom>	"2017-02-23" .
+<http://genericStore/Offer1829> <http://purl.org/goodrelations/price>	"1179" .
+<http://genericStore/Offer1829>	<http://purl.org/goodrelations/serialNumber>	"29804834" .
+<http://genericStore/Offer1829>	<http://purl.org/goodrelations/description>	"Celular para quem quer acessar tudo" .
+
+<http://genericStore/Offer2023>	<http://purl.org/goodrelations/name>	"TV Samsung DK1212" .
+<http://genericStore/Offer2023>	<http://purl.org/goodrelations/category>	"Televisão" .
+<http://genericStore/Offer2023>	<http://purl.org/goodrelations/validThrough>	"2017-09-28" .
+<http://genericStore/Offer2023>	<http://purl.org/goodrelations/validFrom>	"2016-06-04" .
+<http://genericStore/Offer2023>	<http://purl.org/goodrelations/price>	"0979" .
+<http://genericStore/Offer2023>	<http://purl.org/goodrelations/serialNumber>	"59224724" .
+<http://genericStore/Offer2023>	<http://purl.org/goodrelations/description>	"1080p LED TV" .
+
+<http://genericStore/Offer2024>	<http://purl.org/goodrelations/name>	"Television LG SP58" .
+<http://genericStore/Offer2024>	<http://purl.org/goodrelations/category>	"Televisão" .
+<http://genericStore/Offer2024>	<http://purl.org/goodrelations/validThrough>	"2017-06-24" .
+<http://genericStore/Offer2024>	<http://purl.org/goodrelations/validFrom>	"2016-12-23" .
+<http://genericStore/Offer2024>	<http://purl.org/goodrelations/price>	"1579" .
+<http://genericStore/Offer2024>	<http://purl.org/goodrelations/serialNumber>	"99224724" .
+<http://genericStore/Offer2024>	<http://purl.org/goodrelations/description>	"1080p 3D LED TV" .
+
+<http://genericStore/Offer2025>	<http://purl.org/goodrelations/name>	"Zenfone 2" .
+<http://genericStore/Offer2025>	<http://purl.org/goodrelations/category>	"Celular" .
+<http://genericStore/Offer2025>	<http://purl.org/goodrelations/validThrough>	"2017-03-22" .
+<http://genericStore/Offer2025>	<http://purl.org/goodrelations/validFrom>	"2017-03-20" .
+<http://genericStore/Offer2025>	<http://purl.org/goodrelations/price>	"0999" .
+<http://genericStore/Offer2025>	<http://purl.org/goodrelations/serialNumber>	"10105688" .
+<http://genericStore/Offer2025>	<http://purl.org/goodrelations/description>	"Celular com ótimo custo benefício." .
+
+<http://genericStore/Offer2026>	<http://purl.org/goodrelations/name>	"Zenfone 2" .
+<http://genericStore/Offer2026>	<http://purl.org/goodrelations/category>	"Celular" .
+<http://genericStore/Offer2026>	<http://purl.org/goodrelations/validThrough>	"2017-03-05" .
+<http://genericStore/Offer2026>	<http://purl.org/goodrelations/validFrom>	"2017-02-06" .
+<http://genericStore/Offer2026>	<http://purl.org/goodrelations/price>	"1100" .
+<http://genericStore/Offer2026>	<http://purl.org/goodrelations/serialNumber>	"43688834" .
+<http://genericStore/Offer2026>	<http://purl.org/goodrelations/description>	"Celular da Asus potente e econômico" .
+
+<http://genericStore/Offer2027>	<http://purl.org/goodrelations/name>	"Zenfone 3" .
+<http://genericStore/Offer2027>	<http://purl.org/goodrelations/category>	"Celular" .
+<http://genericStore/Offer2027>	<http://purl.org/goodrelations/validThrough>	"2017-03-21" .
+<http://genericStore/Offer2027>	<http://purl.org/goodrelations/validFrom>	"2017-03-02" .
+<http://genericStore/Offer2027>	<http://purl.org/goodrelations/price>	"1350" .
+<http://genericStore/Offer2027>	<http://purl.org/goodrelations/serialNumber>	"25968741" .
+<http://genericStore/Offer2027>	<http://purl.org/goodrelations/description>	"Aparelho de última geração" .
+
+<http://genericStore/Offer2028>	<http://purl.org/goodrelations/name>	"PlayStation 4" .
+<http://genericStore/Offer2028>	<http://purl.org/goodrelations/category>	"Console" .
+<http://genericStore/Offer2028>	<http://purl.org/goodrelations/validThrough>	"2017-12-27" .
+<http://genericStore/Offer2028>	<http://purl.org/goodrelations/validFrom>	"2017-03-21" .
+<http://genericStore/Offer2028>	<http://purl.org/goodrelations/price>	"1236" .
+<http://genericStore/Offer2028>	<http://purl.org/goodrelations/serialNumber>	"25896471" .
+<http://genericStore/Offer2028>	<http://purl.org/goodrelations/description>	"Jogos com a última geração de gráficos" .
+
+<http://genericStore/Offer2029>	<http://purl.org/goodrelations/name>	"Nintendo Switch" .
+<http://genericStore/Offer2029>	<http://purl.org/goodrelations/category>	"Console" .
+<http://genericStore/Offer2029>	<http://purl.org/goodrelations/validThrough>	"2017-03-22" .
+<http://genericStore/Offer2029>	<http://purl.org/goodrelations/validFrom>	"2017-01-21" .
+<http://genericStore/Offer2029>	<http://purl.org/goodrelations/price>	"2400" .
+<http://genericStore/Offer2029>	<http://purl.org/goodrelations/serialNumber>	"33344034" .
+<http://genericStore/Offer2029>	<http://purl.org/goodrelations/description>	"Perfeito para quem ama os games" .
+
+<http://genericStore/Offer2030>	<http://purl.org/goodrelations/name>	"PlayStation 3" .
+<http://genericStore/Offer2030>	<http://purl.org/goodrelations/category>	"Console" .
+<http://genericStore/Offer2030>	<http://purl.org/goodrelations/validThrough>	"2017-10-27" .
+<http://genericStore/Offer2030>	<http://purl.org/goodrelations/validFrom>	"2016-12-21" .
+<http://genericStore/Offer2030>	<http://purl.org/goodrelations/price>	"1400" .
+<http://genericStore/Offer2030>	<http://purl.org/goodrelations/serialNumber>	 "48582234" .
+<http://genericStore/Offer2030>	<http://purl.org/goodrelations/description>	"Para amantes dos clássicos" .
+
+<http://genericStore/Offer2031>	<http://purl.org/goodrelations/name>	"Tablet Samsung Galaxy Tab E" .
+<http://genericStore/Offer2031>	<http://purl.org/goodrelations/category>	"Portateis" .
+<http://genericStore/Offer2031>	<http://purl.org/goodrelations/validThrough>	"2017-11-27" .
+<http://genericStore/Offer2031>	<http://purl.org/goodrelations/validFrom>	"2017-03-29" .
+<http://genericStore/Offer2031>	<http://purl.org/goodrelations/price>	"0730" .
+<http://genericStore/Offer2031>	<http://purl.org/goodrelations/serialNumber>	"00235879" .
+<http://genericStore/Offer2031>	<http://purl.org/goodrelations/description>	"Portabilidade com capacidade" .
+
+<http://genericStore/Offer2032>	<http://purl.org/goodrelations/name>	"Tablet Philco PHB70" .
+<http://genericStore/Offer2032>	<http://purl.org/goodrelations/category>	"Portateis" .
+<http://genericStore/Offer2032>	<http://purl.org/goodrelations/validThrough>	"2017-09-12" .
+<http://genericStore/Offer2032>	<http://purl.org/goodrelations/validFrom>	"2017-05-11" .
+<http://genericStore/Offer2032>	<http://purl.org/goodrelations/price>	"0275" .
+<http://genericStore/Offer2032>	<http://purl.org/goodrelations/serialNumber>	"43644034" .
+<http://genericStore/Offer2032>	<http://purl.org/goodrelations/description>	"Imagem nítida, ótimo som" .
+
+<http://genericStore/Offer2033>	<http://purl.org/goodrelations/name>	"Tablet CCE Motion" .
+<http://genericStore/Offer2033>	<http://purl.org/goodrelations/category>	"Portateis" .
+<http://genericStore/Offer2033>	<http://purl.org/goodrelations/validThrough>	"2017-09-09" .
+<http://genericStore/Offer2033>	<http://purl.org/goodrelations/validFrom>	"2016-12-12" .
+<http://genericStore/Offer2033>	<http://purl.org/goodrelations/price>	"0180" .
+<http://genericStore/Offer2033>	<http://purl.org/goodrelations/serialNumber>	"12125034" .
+<http://genericStore/Offer2033>	<http://purl.org/goodrelations/description>	"Tela de 12 polegadas" .
+
+<http://genericStore/Offer2034>	<http://purl.org/goodrelations/name>	"Tablet Multilaser" .
+<http://genericStore/Offer2034>	<http://purl.org/goodrelations/category>	"Portateis" .
+<http://genericStore/Offer2034>	<http://purl.org/goodrelations/validThrough>	"2017-10-27" .
+<http://genericStore/Offer2034>	<http://purl.org/goodrelations/validFrom>	"2016-09-21" .
+<http://genericStore/Offer2034>	<http://purl.org/goodrelations/price>	"0300" .
+<http://genericStore/Offer2034>	<http://purl.org/goodrelations/serialNumber>	"77644034" .
+<http://genericStore/Offer2034>	<http://purl.org/goodrelations/description>	"Wi-fi e bateria durável" .
+
+<http://genericStore/Offer2035>	<http://purl.org/goodrelations/name>	"Cafeteira Single Colours" .
+<http://genericStore/Offer2035>	<http://purl.org/goodrelations/category>	"Eletrodomesticos" .
+<http://genericStore/Offer2035>	<http://purl.org/goodrelations/validThrough>	"2017-09-27" .
+<http://genericStore/Offer2035>	<http://purl.org/goodrelations/validFrom>	"2017-03-21" .
+<http://genericStore/Offer2035>	<http://purl.org/goodrelations/price>	"0056" .
+<http://genericStore/Offer2035>	<http://purl.org/goodrelations/serialNumber>	"00123566" .
+<http://genericStore/Offer2035>	<http://purl.org/goodrelations/description>	"Capacidade de 15 xícaras" .
+
+<http://genericStore/Offer2036>	<http://purl.org/goodrelations/name>	"Cafeteira Britânia" .
+<http://genericStore/Offer2036>	<http://purl.org/goodrelations/category>	"Eletrodomesticos" .
+<http://genericStore/Offer2036>	<http://purl.org/goodrelations/validThrough>	"2017-09-27" .
+<http://genericStore/Offer2036>	<http://purl.org/goodrelations/validFrom>	"2017-03-21" .
+<http://genericStore/Offer2036>	<http://purl.org/goodrelations/price>	"0070" .
+<http://genericStore/Offer2036>	<http://purl.org/goodrelations/serialNumber>	"41113034" .
+<http://genericStore/Offer2036>	<http://purl.org/goodrelations/description>	"Inox e com timer" .
+
+<http://genericStore/Offer2037>	<http://purl.org/goodrelations/name>	"Cafeteira Arno Premium" .
+<http://genericStore/Offer2037>	<http://purl.org/goodrelations/category>	"Eletrodomesticos" .
+<http://genericStore/Offer2037>	<http://purl.org/goodrelations/validThrough>	"2017-09-27" .
+<http://genericStore/Offer2037>	<http://purl.org/goodrelations/validFrom>	"2017-01-21" .
+<http://genericStore/Offer2037>	<http://purl.org/goodrelations/price>	"0079" .
+<http://genericStore/Offer2037>	<http://purl.org/goodrelations/serialNumber>	"89898555" .
+<http://genericStore/Offer2037>	<http://purl.org/goodrelations/description>	"Com timer capacidade 25 xicaras" .
+
+<http://genericStore/Offer2038>	<http://purl.org/goodrelations/name>	"Monitor LG Full HD" .
+<http://genericStore/Offer2038>	<http://purl.org/goodrelations/category>	"Eletronico" .
+<http://genericStore/Offer2038>	<http://purl.org/goodrelations/validThrough>	"2017-10-27" .
+<http://genericStore/Offer2038>	<http://purl.org/goodrelations/validFrom>	"2016-01-21" .
+<http://genericStore/Offer2038>	<http://purl.org/goodrelations/price>	"0850" .
+<http://genericStore/Offer2038>	<http://purl.org/goodrelations/serialNumber>	"81118555" .
+<http://genericStore/Offer2038>	<http://purl.org/goodrelations/description>	"24 polegadas HD" .
+
+<http://genericStore/Offer2039>	<http://purl.org/goodrelations/name>	"Monitor Samsung Full HD" .
+<http://genericStore/Offer2039>	<http://purl.org/goodrelations/category>	"Eletronico" .
+<http://genericStore/Offer2039>	<http://purl.org/goodrelations/validThrough>	"2017-07-11" .
+<http://genericStore/Offer2039>	<http://purl.org/goodrelations/validFrom>	"2017-02-05" .
+<http://genericStore/Offer2039>	<http://purl.org/goodrelations/price>	"0700" .
+<http://genericStore/Offer2039>	<http://purl.org/goodrelations/serialNumber>	"89898588" .
+<http://genericStore/Offer2039>	<http://purl.org/goodrelations/description>	"23 Polegadas Full HD" .
+
+<http://genericStore/Offer2040>	<http://purl.org/goodrelations/name>	"Headset Razor" .
+<http://genericStore/Offer2040>	<http://purl.org/goodrelations/category>	"Perifericos" .
+<http://genericStore/Offer2040>	<http://purl.org/goodrelations/validThrough>	"2017-09-15" .
+<http://genericStore/Offer2040>	<http://purl.org/goodrelations/validFrom>	"201-09-20" .
+<http://genericStore/Offer2040>	<http://purl.org/goodrelations/price>	"350" .
+<http://genericStore/Offer2040>	<http://purl.org/goodrelations/serialNumber>	"22564971" .
+<http://genericStore/Offer2040>	<http://purl.org/goodrelations/description>	"Som de alta definição" .
+
+<http://genericStore/Offer2041>	<http://purl.org/goodrelations/name>	"Headset Multilaser" .
+<http://genericStore/Offer2041>	<http://purl.org/goodrelations/category>	"Perifericos" .
+<http://genericStore/Offer2041>	<http://purl.org/goodrelations/validThrough>	"2017-06-04" .
+<http://genericStore/Offer2041>	<http://purl.org/goodrelations/validFrom>	"2016-11-29" .
+<http://genericStore/Offer2041>	<http://purl.org/goodrelations/price>	"0089" .
+<http://genericStore/Offer2041>	<http://purl.org/goodrelations/serialNumber>	"44898555" .
+<http://genericStore/Offer2041>	<http://purl.org/goodrelations/description>	"Economico e confortavel" .
+
+<http://genericStore/Offer2042>	<http://purl.org/goodrelations/name>	"Headset Arien Kraken" .
+<http://genericStore/Offer2042>	<http://purl.org/goodrelations/category>	"Perifericos" .
+<http://genericStore/Offer2042>	<http://purl.org/goodrelations/validThrough>	"2017-11-15" .
+<http://genericStore/Offer2042>	<http://purl.org/goodrelations/validFrom>	"2017-01-21" .
+<http://genericStore/Offer2042>	<http://purl.org/goodrelations/price>	"0199" .
+<http://genericStore/Offer2042>	<http://purl.org/goodrelations/serialNumber>	"89890023" .
+<http://genericStore/Offer2042>	<http://purl.org/goodrelations/description>	"Alta performance e excelente design" .
+
+<http://genericStore/Offer2043>	<http://purl.org/goodrelations/name>	"Mouse Logitech Premium" .
+<http://genericStore/Offer2043>	<http://purl.org/goodrelations/category>	"Perifericos" .
+<http://genericStore/Offer2043>	<http://purl.org/goodrelations/validThrough>	"2017-08-27" .
+<http://genericStore/Offer2043>	<http://purl.org/goodrelations/validFrom>	"2017-02-01" .
+<http://genericStore/Offer2043>	<http://purl.org/goodrelations/price>	"0129" .
+<http://genericStore/Offer2043>	<http://purl.org/goodrelations/serialNumber>	"57948555" .
+<http://genericStore/Offer2043>	<http://purl.org/goodrelations/description>	"Conforto e desempenho" .
+
+<http://genericStore/Offer2044>	<http://purl.org/goodrelations/name>	"Mouse Razer" .
+<http://genericStore/Offer2044>	<http://purl.org/goodrelations/category>	"Perifericos" .
+<http://genericStore/Offer2044>	<http://purl.org/goodrelations/validThrough>	"2017-07-05" .
+<http://genericStore/Offer2044>	<http://purl.org/goodrelations/validFrom>	"2017-03-20" .
+<http://genericStore/Offer2044>	<http://purl.org/goodrelations/price>	"0299" .
+<http://genericStore/Offer2044>	<http://purl.org/goodrelations/serialNumber>	"89000555" .
+<http://genericStore/Offer2044>	<http://purl.org/goodrelations/description>	"A marce preferida dos gamers" .
+
+<http://genericStore/Retailer180>	<http://purl.org/goodrelations/name>	"cigarette pectin graphics rubble pluckiness telecommuting redoubled nonprofits privates Hopi prepaid Daedalus's Nettie's sukiyaki blameless rarity's Adkins's disestablish potshot's wildness's aggregation's wavelength's" .
+<http://genericStore/Retailer181>	<http://purl.org/goodrelations/name>	"diphthong's disregarding mouthful youthful damped adultery Leopoldo's washtubs mothballed she's screams rewires periodic finalist's understood shebang singles Odysseus creak's unearthing notable imperials accessioned" .
+<http://genericStore/Retailer182>	<http://purl.org/goodrelations/name>	"Fathers indistinguishable descanted Brandi's Thessalonian" .
+<http://genericStore/Retailer183>	<http://purl.org/goodrelations/name>	"lushness's yelping Sunni's corseting wetted mansion's betrayal's terriers shaikh niggle's" .
